@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica, "Helvetica Nueue", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.tweets {
+  width: 100%;
+  max-width: 700px;
+  margin: 30px auto;
+}
+
+.tweet {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: left;
+}
+
+.screen-name {
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.username::before {
+  content: '@';
+}
+
+.retweets {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+}
