@@ -1,6 +1,6 @@
 # Tweet Stream
 
-Tweet streaming app built with Zapier and Pusher Channels. Tutorial:
+Tweet streaming app built with Zapier and Pusher Channels. Tutorial: https://pusher.com/tutorials/react-zapier-tweet-stream
 
 ## Getting Started
 
